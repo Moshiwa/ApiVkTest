@@ -1,0 +1,10 @@
+{
+  "DB_HOST": "localhost",
+  "DB_PORT": "27017",
+  "VK_CLIENT_ID": "",
+  "VK_CLIENT_SECRET": "",
+  "VK_CODE": "",
+  "VK_ACCESS_TOKEN": "",
+  "VK_PARSE_GROUP_ID": 1
+
+}

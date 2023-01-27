@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.8",
+        "ext-mbstring": "*",
+        "ext-curl": "*"
+    }
+}
